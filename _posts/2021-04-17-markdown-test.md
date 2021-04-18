@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Markdown Demonstration"
+permalink: /markdown-demo/
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

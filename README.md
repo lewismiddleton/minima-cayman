@@ -2,7 +2,7 @@
 
 *Fork of Minima to implement Cayman formatting (technically Cayman-Dark).*
 
-[Theme preview](https://lewismiddleton.github.io/minima-cayman/)
+[Theme preview](https://lewismiddleton.github.io/minima-cayman/markdown-demo/)
 
 ## About
 I basically hacked this theme together to get it how I wanted it to look.
