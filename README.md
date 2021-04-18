@@ -17,6 +17,8 @@ To use this theme, specify the remote theme in your `_config.yml` file as shown 
 remote_theme: lewismiddleton/minima-cayman
 ```
 
+## Changes
+Removed feed plugin for RSS as seemingly unsupported by Github pages.
 
 ## To-do
  - Social Icons have padding (class svg-icon needs padding removed) - done
